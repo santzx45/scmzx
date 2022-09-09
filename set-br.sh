@@ -29,7 +29,7 @@ cd /usr/bin
 wget -O autobackup "https://raw.githubusercontent.com/santzx45/scmzx/main/autobackup.sh"
 wget -O backup "https://raw.githubusercontent.com/santzx45/scmzx/main/backup.sh"
 wget -O bckp "https://raw.githubusercontent.com/santzx45/scmzx/main/bckp.sh"
-wget -O restore "https://raw.githubusercontent.com/santzz45/scmzx/main/restore.sh"
+wget -O restore "https://raw.githubusercontent.com/santzx45/scmzx/main/restore.sh"
 wget -O strt "https://raw.githubusercontent.com/santzx45/scmzx/main/strt.sh"
 wget -O limit-speed "https://raw.githubusercontent.com/santzx45/scmzx/main/limit-speed.sh"
 chmod +x autobackup
