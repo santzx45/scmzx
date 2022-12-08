@@ -14,10 +14,10 @@ ver=$VERSION_ID
 country=ID
 state=Boyolali
 locality=Indonesia
-organization=www.santzx.com
-organizationalunit=www.santzx.com
-commonname=www.santzx.com
-email=admin@santzx.com
+organization=www.ultrassh.net
+organizationalunit=www.ultrassh.net
+commonname=www.ultrassh.net
+email=admin@garudahostlive.com
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/santzx45/scmzx/main/password"
